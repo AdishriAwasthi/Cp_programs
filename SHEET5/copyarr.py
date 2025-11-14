@@ -3,6 +3,3 @@ s=0
 t=int(input())
 for i in range (len(n)):
     print(n[i]+t,end=" ")
-    
-
-    cdgttgj
